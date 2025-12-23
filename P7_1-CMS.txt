@@ -1,0 +1,20 @@
+Database Name: P7_1-CMS
+Authors: Lab P7 Grp 1
+Table Name: StudentRecords
+ID,Name,Programme,Mark
+2301234,Joshua Chen,Software Engineering,70.5
+2201234,Isaac Teo,Computer Science,63.4
+2304567,John Levoy,Digital Supply Chain,85.9
+2502219,Steven Low,Digipen,67.03
+2340921,Linda Kingston,Food Technology,53.7
+2560143,Amon Rattanakosin Mahinthara,Nanotechnology and Materials Science,45.7
+2403927,Nurul Aisyah binti Abdullah,Information and Communications Technology Software Engineering,98.7
+2232912,Radshika Kaur,Applied Computing with Fintech,65.7
+2409234,Yamaguchi Kageyama,Sustainable Infrastructure Engineering,78.36
+2319044,Haruto Tanaka,Artificial Intelligence,59.8
+2576103,Helena Petrova,Digital Communications & Media,91.2
+2473309,Kim Seok Hyun,Information Systems Technology & Design,54.2
+2398871,Viktor Milanovich,Game Design & Development,69.4
+
+24fwt56,Michael Jackson,Music,90.1               test case: invalid id - error; prints out the hash value instead of the student ID
+12345678,Becky Tan,Information Systems, 95.4     test case: id exceeds the range of numbers for a valid id
